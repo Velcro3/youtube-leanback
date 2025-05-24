@@ -1,5 +1,5 @@
 {
-  "name": "leantube",
+  "name": "leanbackyoutube",
   "productName": "YouTube TV",
   "version": "1.0.0",
   "description": "YouTube Leanback wrapper",
@@ -30,6 +30,7 @@
     "@vercel/webpack-asset-relocator-loader": "^1.7.3",
     "css-loader": "^6.11.0",
     "electron": "36.3.1",
+    "electron-icon-builder": "^2.0.1",
     "node-loader": "^2.1.0",
     "style-loader": "^3.3.4"
   },
