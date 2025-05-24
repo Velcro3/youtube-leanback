@@ -1,6 +1,6 @@
 {
   "name": "leantube",
-  "productName": "Leantube",
+  "productName": "leantube",
   "version": "1.0.1",
   "description": "YouTube Leanback wrapper",
   "main": ".webpack/main",

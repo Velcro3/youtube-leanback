@@ -20,10 +20,7 @@ module.exports = {
     },
     {
       name: '@electron-forge/maker-deb',
-      config: {
-        productName: 'Leantube',
-        name: 'Leantube'
-      },
+      config: {},
     },
     {
       name: '@electron-forge/maker-rpm',
