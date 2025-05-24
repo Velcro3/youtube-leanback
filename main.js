@@ -1,0 +1,1 @@
+console.log("If you see this, Electron has detected main.js and ran it.");
