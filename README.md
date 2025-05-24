@@ -18,7 +18,5 @@ Simply install the binary from Releases.
 4. Run `npm run start` to launch it.
 #### Compilation
 1. Follow the steps for Non Compile up to 5. (clone and cd, npm install)
-2. Add electron forge and install it.
-3. Follow the steps at [the Electron Forge site][def]
+3. Run `npm run make`
 4. Install and run!
-[def]: electronforge.io
