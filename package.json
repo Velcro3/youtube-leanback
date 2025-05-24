@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
-  "productName": "my-app",
+  "name": "leantube",
+  "productName": "leantube",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "YouTube Leanback wrapper",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
